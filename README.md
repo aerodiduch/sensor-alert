@@ -1,6 +1,5 @@
 # 🚨 Sensors alerting system
 
-[pending, WIP]
 
 In order to run this script you need `psutil`.
 
